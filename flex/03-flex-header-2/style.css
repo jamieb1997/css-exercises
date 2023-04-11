@@ -19,6 +19,8 @@ body {
 
 .container-left {
   display: flex;
+  margin-right: auto;
+  padding: 8px;
 }
 
 .profile-image {
